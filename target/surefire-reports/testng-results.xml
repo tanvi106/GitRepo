@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T11:11:11Z" name="Swaglabs" finished-at="2022-04-18T11:11:29Z" duration-ms="18354">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-04-18T11:11:11Z" name="swaglabs_testing" finished-at="2022-04-18T11:11:29Z" duration-ms="18354">
+      <class name="testSuiteBDD.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:11Z" name="setUpClass" finished-at="2022-04-18T11:11:11Z" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:11Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:14Z" duration-ms="3025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["open the swaglabs site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:14Z" duration-ms="298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login functionality for a swaglabs site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:19Z" duration-ms="4582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login functionality for a swaglabs site"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:19Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:20Z" duration-ms="651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verifying product list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:20Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:21Z" duration-ms="1217" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verifying product list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:21Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:26Z" duration-ms="5384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validating add to cart button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:26Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:26Z" duration-ms="100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validating delete product functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:26Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-04-18T11:11:29Z" duration-ms="2864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validating place order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Automation of SwagLabs Website]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testSuiteBDD.TestRunner@45ac5f9b]" started-at="2022-04-18T11:11:29Z" name="tearDownClass" finished-at="2022-04-18T11:11:29Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testSuiteBDD.TestRunner -->
+      <class name="base.Base">
+        <test-method is-config="true" signature="setup()[pri:0, instance:base.Base@6d7fc27]" started-at="2022-04-18T11:11:09Z" name="setup" finished-at="2022-04-18T11:11:11Z" duration-ms="1703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:base.Base@6d7fc27]" started-at="2022-04-18T11:11:29Z" name="tearDown" finished-at="2022-04-18T11:11:30Z" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.Base -->
+    </test> <!-- swaglabs_testing -->
+  </suite> <!-- Swaglabs -->
+</testng-results>
